@@ -9,5 +9,5 @@ public class Buoi16Jsp2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Buoi16Jsp2Application.class, args);
 	}
-
+// chỗ này là hàm main phải không em
 }
